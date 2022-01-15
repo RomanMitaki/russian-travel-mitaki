@@ -1,0 +1,14 @@
+.header__lang-link {
+  text-decoration-line: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  color: #ffffff;
+  text-align: center;
+  opacity: 1;
+  transition: opacity 0.3s;
+  display: inline-block;
+  transform: translateY(4px) translateX(2px);
+}
