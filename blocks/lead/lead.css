@@ -1,0 +1,6 @@
+.lead {
+  margin: 0 auto;
+  padding: 0 1rem;
+  min-width: 288px;
+  box-sizing: content-box;
+}

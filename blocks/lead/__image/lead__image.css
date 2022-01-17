@@ -1,0 +1,8 @@
+.lead__image {
+  display: block;
+  width: calc(100% + 2rem);
+  min-height: 200px;
+  max-height: 615px;
+  object-fit: cover;
+  transform: translateX(-1rem);
+}

@@ -2,10 +2,17 @@
   display: flex;
   flex-direction: column;
   min-width: 320px;
-  max-width: 1600px;
   margin: 0 auto;
   font-family: "Inter", "Arial", "sans-serif";
   box-sizing: border-box;
-  background: #2A2C2F;
-  color: #FFFFFF;
+  background: #2a2c2f;
+  color: #ffffff;
+  height: 100%;
+  overflow: hidden;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
