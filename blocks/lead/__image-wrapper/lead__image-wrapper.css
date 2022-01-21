@@ -1,0 +1,11 @@
+.lead__image-wrapper {
+  position: relative;
+  width: 100vw;
+  overflow: hidden;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+}
+
+

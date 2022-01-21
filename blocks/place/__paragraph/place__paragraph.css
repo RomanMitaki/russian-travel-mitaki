@@ -1,0 +1,22 @@
+.place__paragraph {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: calc(26 / 16);
+  margin: 0;
+}
+
+.place__paragraph:nth-of-type(even) {
+  padding-top: 25px;
+}
+
+@media screen and (min-width: 1024px) {
+  .place__paragraph {
+    font-size: 18px;
+    line-height: calc(29 / 16);
+  }
+
+  .place__paragraph:nth-of-type(even) {
+    padding-top: 27px;
+  }
+}

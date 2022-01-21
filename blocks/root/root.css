@@ -1,18 +1,35 @@
-.page {
+.root {
   display: flex;
   flex-direction: column;
-  min-width: 320px;
-  margin: 0 auto;
+  min-width: 288px;
+  margin: 1rem 1rem 24.63rem 1rem;
   font-family: "Inter", "Arial", "sans-serif";
+  font-size: 16px;
+  line-height: 1;
   box-sizing: border-box;
   background: #2a2c2f;
   color: #ffffff;
-  height: 100%;
-  overflow: hidden;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
+  min-height: 100vh;
   text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+@media screen and (min-width: 768px) {
+  .root {
+    min-width: 720px;
+    margin: 1.75rem 1.5rem 1.5rem 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .root {
+    min-width: 928px;
+    margin: 1.75rem 3rem 1.5rem 3rem;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .root {
+    min-width: 1184px;
+  }
 }
