@@ -5,6 +5,7 @@
   gap: 12px;
   grid-auto-flow: row;
   grid-auto-rows: minmax(216px, 1fr);
+  max-width: 1184px;
 }
 
 @media screen and (min-width: 768px) {
