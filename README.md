@@ -1,10 +1,11 @@
 # Проект: Путешествие по России
+-------------------------------
 
 ### Что использовали:
-* HTML
-* CSS (flex, grid-layout, responsive design)
-* Figma
-* PixelPerfect
+* _HTML_
+* *CSS (flex, grid-layout, responsive design)*
+* _Figma_
+* _PixelPerfect_
 
 **Что внутри:**
 
@@ -13,6 +14,4 @@
 
 **Figma**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-
+* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0 "Figma: Путешествие по России")
