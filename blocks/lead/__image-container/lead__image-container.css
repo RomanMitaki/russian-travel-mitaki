@@ -1,0 +1,8 @@
+.lead__image-container {
+  position: relative;
+  width: 100vw;
+  overflow: hidden;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+}
