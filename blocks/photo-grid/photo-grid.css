@@ -14,7 +14,6 @@
     grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
     gap: 16px;
-    grid-auto-flow: row;
     grid-auto-rows: minmax(264px, 1fr);
   }
 }
@@ -25,7 +24,6 @@
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(225px, 1fr));
     gap: 14px;
-    grid-auto-flow: row;
     grid-auto-rows: minmax(225px, 1fr);
   }
 }
@@ -35,7 +33,6 @@
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(213px, 1fr));
     gap: 16px;
-    grid-auto-flow: row;
     grid-auto-rows: minmax(213px, 1fr);
   }
 }

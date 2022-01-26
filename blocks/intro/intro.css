@@ -1,6 +1,7 @@
 .intro {
   width: 100%;
   max-width: 1184px;
+  padding-bottom: 4rem;
 }
 
 @media screen and (min-width: 768px) {
