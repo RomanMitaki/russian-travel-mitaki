@@ -1,9 +1,0 @@
-.place__link_url {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: calc(22/18);
-  transition: opacity 0.3s;
-  display: block;
-  color: #FFFFFF;
-}
