@@ -1,0 +1,11 @@
+.place__link-heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  padding-bottom: 0.75rem;
+  color: #aaaaaa;
+  text-transform: uppercase;
+  margin: 0;
+}
